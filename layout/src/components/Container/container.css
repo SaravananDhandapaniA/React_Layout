@@ -1,0 +1,23 @@
+.container
+{
+    display: flex; 
+    margin: 10px 10px;
+    gap: 10px;  
+}
+
+.side-bar
+{   
+    color:#fffafa;
+    font-size: 30px;
+    background-color: rgb(100, 100, 247);
+    height:70vh;
+    width: 35%;
+    
+}
+.content
+{
+    color:#fffafa;
+    font-size: 30px;
+    background-color: #db47b6;
+    width: 65%;
+}
